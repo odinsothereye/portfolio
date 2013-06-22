@@ -1,0 +1,6 @@
+#!/usr/bin/env python2
+
+firstString = "I like dogs"
+dogList = firstString.split()
+for i in reversed(dogList):
+  print i
