@@ -2,5 +2,5 @@
 
 firstString = "I like dogs"
 dogList = firstString.split()
-for i in reversed(dogList):
-  print i
+for element in reversed(dogList):
+  print element
